@@ -1,0 +1,23 @@
+{
+  "name": "ps-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neongreen/ps-play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neongreen/ps-play/issues"
+  },
+  "homepage": "https://github.com/neongreen/ps-play#readme",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "purescript": "^0.11.7"
+  }
+}
